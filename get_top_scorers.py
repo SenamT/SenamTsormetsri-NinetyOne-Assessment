@@ -37,7 +37,7 @@ def get_top_students(csv_data):
 # 3rd Step: Output Results
 def show_top_scorers(names, score):
     """
-    Prints the top scorer(s) and their score in the required format.
+    Prints the top scorers and their score in the required format
     """
     print("\nTop Scorers:")
     for name in names:
